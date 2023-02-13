@@ -7,3 +7,8 @@ And the crowd is shouting
 
 The ship is wrecked apart
 And no one is there to see
+<<<<<<< HEAD
+=======
+
+some changes
+>>>>>>> feature
